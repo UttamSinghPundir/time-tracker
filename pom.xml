@@ -89,4 +89,12 @@
             </plugin>
         </plugins>
     </reporting>
+         <dependencies>
+                  <dependency>
+                           <groupid>junit</groupid>
+                           <artifectid>junit</artifectid>
+                           <version>4.11</version>
+                           <scope>test</scope>
+                   </dependecy>
+         </dependencies>
 </project>
